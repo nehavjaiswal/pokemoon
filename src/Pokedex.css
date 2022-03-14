@@ -1,0 +1,11 @@
+.pokedex-card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(179, 177, 170);
+}
